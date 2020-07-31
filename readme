@@ -1,0 +1,10 @@
+The Online Movie Store.
+Currently this shows restful endpoints showing CRUD operations. You add movies to a database via http
+
+Status: Still under Construction
+
+Todos
+Unit Testing
+Front End
+Exception Handling
+Logging
